@@ -5,5 +5,5 @@ El ejercicio consiste en diseñar un videojuego 2D sencillo basado en el clásic
 usando JavaScript, HTML 5 y la librería Phaser)
 
 
-puedes ver aqui como es:
-https://jorge-chupacabras.github.io/flappybird/
+aqui puedes probar el juego:
+https://jorgeabanarezc.github.io/flappybird/
